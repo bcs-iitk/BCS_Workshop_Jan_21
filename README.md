@@ -11,7 +11,7 @@ Aknowledgements:- These notebooks have been prepared with the help of the notebo
 | ------ | ------ | ----- |
 | Python Basics | [notebook](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_1_Python_Basics.ipynb) | [solution](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_1_Python_Basics_Solution.ipynb) |
 | Model Fitting | [notebook](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_2_Model_Fitting_Tutorial.ipynb) | [solution](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_2_Model_Fitting_Tutorial_Solution.ipynb) |
-| Machine Learning GLM | [notebook](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_3_Machine_Learning_GLM,ipynb) | [solution](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_3_Machine_Learning_GLM_Solution.ipynb) |
+| Machine Learning GLM | [notebook](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_3_Machine_Learning_GLM.ipynb) | [solution](https://github.com/bcs-iitk/BCS_Workshop_Jan_21/blob/master/Notebooks/Assignment_3_Machine_Learning_GLM_Solution.ipynb) |
 
 ## Week 2
 
