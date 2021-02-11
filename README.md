@@ -1,8 +1,8 @@
 # BCS Workshop Jan-Feb '21
 
-Brain and Cognitive Society, IIT Kanpur, brings you a workshop aimed at introducing its participants to the basics of Machine Learning and concepts related to them. In this workshop, we handed out notebooks on each Saturday for 2 weekends, and each notebook was focused on one aspect of Machine Learning. The notebooks had some embedded videos in them to help them on the go.<br>
+[Brain and Cognitive Society, IIT Kanpur](https://bcs-iitk.github.io/), brings you a workshop aimed at introducing its participants to the basics of Machine Learning and concepts related to them. In this workshop, we handed out notebooks on each Saturday for 2 weekends, and each notebook was focused on one aspect of Machine Learning. The notebooks had some embedded videos in them to help them on the go.<br>
 
-Aknowledgements:- These notebooks have been prepared with the help of the notebooks from the summer course at Neuromatch Academy and the videos are from Neuromatch Academy too.
+<b>Aknowledgements</b>:- These notebooks have been prepared with the help of the notebooks from the [summer course](https://github.com/NeuromatchAcademy/course-content) at Neuromatch Academy and the videos are from Neuromatch Academy too.
 
 # Assignments:
 ## Week 1
